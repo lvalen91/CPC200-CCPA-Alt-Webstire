@@ -15,4 +15,4 @@ Use the script to install this website which completely replaces the original.
   ./cpc200_website.sh restore 192.168.43.1
 ```
 
-![Dashboard](screenshots/1.Dashboard.PNG)
+![Dashboard](screenshots/2.Dashboard.PNG)
